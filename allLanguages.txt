@@ -12,3 +12,6 @@ Navaho
 Finnish
 Russian
 Dothraki
+
+Nunavut
+Quechwa
