@@ -1,14 +1,7 @@
 list of the world's languages
 
 French
-Swahili
-Inuktitut
+Latin
+German
 Spanish
-English
-Swinomish
-Berber
-Klingon
-Navaho
-Finnish
-Russian
-Dothraki
+
