@@ -4,4 +4,13 @@ French
 Latin
 German
 Spanish
+English
+Swinomish
+Berber
+Klingon
+Navaho
+Finnish
+Russian
+Dothraki
+Nunavut
 
